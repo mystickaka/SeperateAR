@@ -77,63 +77,63 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 618}
+      Script: {instanceID: 626}
     - Class: 114
-      Script: {instanceID: 11354}
+      Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 11376}
+      Script: {instanceID: 11386}
     - Class: 114
-      Script: {instanceID: 11468}
+      Script: {instanceID: 11480}
     - Class: 114
-      Script: {instanceID: 11476}
+      Script: {instanceID: 11488}
     - Class: 114
-      Script: {instanceID: 11590}
+      Script: {instanceID: 11602}
     - Class: 114
-      Script: {instanceID: 11596}
+      Script: {instanceID: 11608}
     - Class: 114
-      Script: {instanceID: 11632}
+      Script: {instanceID: 11644}
     - Class: 114
-      Script: {instanceID: 11830}
+      Script: {instanceID: 11842}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11912}
     - Class: 114
-      Script: {instanceID: 12016}
+      Script: {instanceID: 12030}
     - Class: 114
-      Script: {instanceID: 12090}
+      Script: {instanceID: 12104}
     - Class: 114
-      Script: {instanceID: 12130}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12246}
+      Script: {instanceID: 12262}
     - Class: 114
-      Script: {instanceID: 12384}
-    - Class: 114
-      Script: {instanceID: 12450}
+      Script: {instanceID: 12400}
     - Class: 114
       Script: {instanceID: 12466}
     - Class: 114
-      Script: {instanceID: 12566}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 12686}
+      Script: {instanceID: 12582}
     - Class: 114
-      Script: {instanceID: 12804}
+      Script: {instanceID: 12704}
     - Class: 114
-      Script: {instanceID: 12808}
+      Script: {instanceID: 12822}
     - Class: 114
-      Script: {instanceID: 12810}
+      Script: {instanceID: 12826}
     - Class: 114
-      Script: {instanceID: 12854}
+      Script: {instanceID: 12828}
     - Class: 114
-      Script: {instanceID: 13006}
+      Script: {instanceID: 12872}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13024}
     - Class: 114
-      Script: {instanceID: 13090}
+      Script: {instanceID: 13058}
     - Class: 114
-      Script: {instanceID: 13148}
+      Script: {instanceID: 13108}
     - Class: 114
-      Script: {instanceID: 13388}
+      Script: {instanceID: 13166}
     - Class: 114
-      Script: {instanceID: 13394}
+      Script: {instanceID: 13406}
+    - Class: 114
+      Script: {instanceID: 13412}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -812,4 +812,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/MotionTracking_ImageTarget.unity
-  playerPath: C:/Users/Jayu/Desktop/JeffVersion-Anim02.apk
+  playerPath: C:/Users/Jayu/Desktop/arCamera-anim01.apk

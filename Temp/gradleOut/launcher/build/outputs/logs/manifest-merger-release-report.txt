@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-63:12
+MERGED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:17:1-46:12
+MERGED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:2:1-6:12
+MERGED from [:EasyAR:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\3cf231290a4bb763c720cfe61b419757\AndroidManifest.xml:1:1-2:12
+MERGED from [:permission.CAMERA:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\87314218208f849437902c8f11becd59\AndroidManifest.xml:2:1-4:12
+MERGED from [:permission.INTERNET:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\329203576f29aa546695711ec70984c0\AndroidManifest.xml:2:1-4:12
+MERGED from [:permission.RECORD_AUDIO:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\01c27b8184a54aed37f92bc0ba03aa6b\AndroidManifest.xml:2:1-4:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+	package
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-96
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:97-143
+	android:versionCode
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:144-184
+supports-screens
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-7:17
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-61:19
+MERGED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:30:5-44:19
+MERGED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:30:5-44:19
+MERGED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:3:3-5:17
+MERGED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:3:3-5:17
+	android:label
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+meta-data#unity.builder
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:6:5-79
+	android:value
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:6:45-76
+	android:name
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:6:16-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:8:20-74
+uses-permission#android.permission.INTERNET
+ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:9:3-65
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [:permission.INTERNET:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\329203576f29aa546695711ec70984c0\AndroidManifest.xml:3:3-65
+MERGED from [:permission.INTERNET:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\329203576f29aa546695711ec70984c0\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:9:20-62
+uses-sdk
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:26:5-28:41
+MERGED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:26:5-28:41
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] F:\UnityProject\SeperateAR-0811\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-42
+activity#com.google.ar.core.InstallActivity
+ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [:com.google.ar.core-1.6.0:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\25d87a339ac405df122455cdd46989d5\AndroidManifest.xml:42:13-62
+meta-data#com.google.ar.core
+ADDED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:4:5-77
+	android:value
+		ADDED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:4:50-74
+	android:name
+		ADDED from [:com.google.ar.core-optional:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\9e6ebbb2fc018ed9cb27d739533c8961\AndroidManifest.xml:4:16-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12 reason: com.easyar.sense.unityplugin has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12 reason: com.easyar.sense.unityplugin has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\UnityProject\SeperateAR-0811\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-10:12 reason: com.easyar.sense.unityplugin requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.CAMERA
+ADDED from [:permission.CAMERA:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\87314218208f849437902c8f11becd59\AndroidManifest.xml:3:3-63
+	android:name
+		ADDED from [:permission.CAMERA:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\87314218208f849437902c8f11becd59\AndroidManifest.xml:3:20-60
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:permission.RECORD_AUDIO:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\01c27b8184a54aed37f92bc0ba03aa6b\AndroidManifest.xml:3:3-69
+	android:name
+		ADDED from [:permission.RECORD_AUDIO:] C:\Users\Jayu\.gradle\caches\transforms-2\files-2.1\01c27b8184a54aed37f92bc0ba03aa6b\AndroidManifest.xml:3:20-66
