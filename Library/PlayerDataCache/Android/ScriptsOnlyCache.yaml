@@ -3,7 +3,6 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - StopBtnController
     EasyAR.Sense.Sample.MotionTracking_ImageTarget.dll:
-    - Common.TouchController
     - CountDownController
     - MotionTracking_ImageTarget.UIController
     - RestartBtnController
@@ -23,7 +22,6 @@ ScriptsOnlyBuild:
     - easyar.VIOCameraDeviceUnion
     - easyar.VideoCameraDevice
     - easyar.VideoRecorder
-    - easyar.WorldRootController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -77,63 +75,59 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 626}
+      Script: {instanceID: 618}
     - Class: 114
-      Script: {instanceID: 11362}
+      Script: {instanceID: 11354}
     - Class: 114
-      Script: {instanceID: 11386}
+      Script: {instanceID: 11376}
     - Class: 114
-      Script: {instanceID: 11480}
+      Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11488}
+      Script: {instanceID: 11590}
     - Class: 114
-      Script: {instanceID: 11602}
+      Script: {instanceID: 11596}
     - Class: 114
-      Script: {instanceID: 11608}
+      Script: {instanceID: 11632}
     - Class: 114
-      Script: {instanceID: 11644}
+      Script: {instanceID: 11830}
     - Class: 114
-      Script: {instanceID: 11842}
+      Script: {instanceID: 11898}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12016}
     - Class: 114
-      Script: {instanceID: 12030}
+      Script: {instanceID: 12090}
     - Class: 114
-      Script: {instanceID: 12104}
+      Script: {instanceID: 12130}
     - Class: 114
-      Script: {instanceID: 12144}
+      Script: {instanceID: 12246}
     - Class: 114
-      Script: {instanceID: 12262}
+      Script: {instanceID: 12384}
     - Class: 114
-      Script: {instanceID: 12400}
+      Script: {instanceID: 12450}
     - Class: 114
       Script: {instanceID: 12466}
     - Class: 114
-      Script: {instanceID: 12482}
+      Script: {instanceID: 12566}
     - Class: 114
-      Script: {instanceID: 12582}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12704}
+      Script: {instanceID: 12804}
     - Class: 114
-      Script: {instanceID: 12822}
+      Script: {instanceID: 12808}
     - Class: 114
-      Script: {instanceID: 12826}
+      Script: {instanceID: 12854}
     - Class: 114
-      Script: {instanceID: 12828}
+      Script: {instanceID: 13006}
     - Class: 114
-      Script: {instanceID: 12872}
+      Script: {instanceID: 13040}
     - Class: 114
-      Script: {instanceID: 13024}
+      Script: {instanceID: 13090}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 13148}
     - Class: 114
-      Script: {instanceID: 13108}
+      Script: {instanceID: 13388}
     - Class: 114
-      Script: {instanceID: 13166}
-    - Class: 114
-      Script: {instanceID: 13406}
-    - Class: 114
-      Script: {instanceID: 13412}
+      Script: {instanceID: 13394}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -812,4 +806,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/MotionTracking_ImageTarget.unity
-  playerPath: C:/Users/Jayu/Desktop/arCamera-anim01.apk
+  playerPath: C:/Users/Jayu/Desktop/arCamera-anim03-v3.0.apk
